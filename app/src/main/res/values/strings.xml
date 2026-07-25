@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bountix</string>
+    <string name="web_url">https://bountix.xyz</string>
+    <string name="loading">Loading Bountix…</string>
+    <string name="reload">Reload Page</string>
+    <string name="open_in_browser">Open in External Browser</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="link_copied">Link copied to clipboard</string>
+    <string name="no_internet_title">Connection Error</string>
+    <string name="no_internet_msg">Unable to connect to Bountix. Please check your internet connection and retry.</string>
+    <string name="retry">Retry</string>
+    <string name="go_home">Go to Home</string>
+</resources>

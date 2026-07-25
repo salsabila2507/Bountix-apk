@@ -1,0 +1,6 @@
+{
+  "name": "Bountix",
+  "description": "A sleek web companion app for Bountix (bountix.xyz).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
